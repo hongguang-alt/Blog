@@ -1,0 +1,7 @@
+{
+    "db":{
+        "user": "hg",
+        "pwd": "123456",
+        "url": "localhost"
+    }
+}
